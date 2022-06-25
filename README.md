@@ -100,8 +100,13 @@ port: the port the server listens on<br />
 default_ip: the ip the server refers to as default <br />
 default_port: the port the server refers to as default <br />
 On_Error_Assume_Player_Is_Online: assumes player is online if enabled to true (on error/timeout)
+
 <br />
 
-##Defaults
+
+## Defaults
+
 <br />
-By default the port ``8000`` is used<br />
+By default the port
+
+`8000`  is used<br />
