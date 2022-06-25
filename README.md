@@ -82,7 +82,9 @@ public final class AvCmd extends Command {
             ChatUtils.message("Player " + arg + " is not found.");
         }
     }
-}``` <br />
+}
+``` 
+<br />
 above is an implementation as a wurst command (not hack in the menu)<br />
 # SETUP
 `npm init -y && npm i express axios minecraft-server-util`
