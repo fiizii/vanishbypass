@@ -88,7 +88,7 @@ public final class AvCmd extends Command {
 above is an implementation as a wurst command (not hack in the menu)<br />
 # SETUP
 <br />
-```
+```bash
 npm init -y && npm i express axios minecraft-server-util
 ```
 <br />
