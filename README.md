@@ -94,19 +94,7 @@ npm init -y && npm i express axios minecraft-server-util
 <br />
 # Options
 <br />
-```
-port
-```
-: the port the server listens on<br />
-```
-default_ip
-```
-: the ip the server refers to as default <br />
-```
-default_port
-```
-: the port the server refers to as default <br />
-```
-On_Error_Assume_Player_Is_Online
-```
-: assumes player is online if enabled to true (on error/timeout)
+port: the port the server listens on<br />
+default_ip: the ip the server refers to as default <br />
+default_port: the port the server refers to as default <br />
+On_Error_Assume_Player_Is_Online: assumes player is online if enabled to true (on error/timeout)
