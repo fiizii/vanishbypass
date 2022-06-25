@@ -2,7 +2,7 @@
 Minecraft server vanish bypass, works with most plugins &lt;3
 <br />
 An example implementation would have code like:<br />
-`java
+```java
 package net.wurstclient.commands;
 
 import java.io.BufferedReader;
@@ -82,7 +82,7 @@ public final class AvCmd extends Command {
             ChatUtils.message("Player " + arg + " is not found.");
         }
     }
-}` <br />
+}``` <br />
 above is an implementation as a wurst command (not hack in the menu)<br />
 # SETUP
 `npm init -y && npm i express axios minecraft-server-util`
