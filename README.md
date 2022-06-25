@@ -86,11 +86,15 @@ public final class AvCmd extends Command {
 ``` 
 <br />
 above is an implementation as a wurst command (not hack in the menu)<br />
-# SETUP
+
+## SETUP
 <br />
-npm init -y && npm i express axios minecraft-server-util
+
+`npm init -y && npm i express axios minecraft-server-util`
+
 <br />
-# Options
+
+## Options
 <br />
 port: the port the server listens on<br />
 default_ip: the ip the server refers to as default <br />
